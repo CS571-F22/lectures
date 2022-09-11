@@ -15,7 +15,7 @@ style: |
 
 <br>
 
-# **Design Thinking 1**
+# **Design Thinking**
 #### CS571: Building User Interfaces
 
 

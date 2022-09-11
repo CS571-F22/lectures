@@ -217,22 +217,47 @@ Look familiar?
 
 
 ### Cole Nelson
-#### **ctnelson2@wisc.edu**
+**ctnelson2@wisc.edu**
+
+<div>
+
 Professional Interests
  * Computer Science Education
  * Human-Computer Interaction
  * Web Application Security
+
+###
+
+Personal Interests
+ * Coffee
+
+</div>
+
 <br>
+
 ![bg right:35%](figures/cole.jpg)
 
 
 ---
 
-<div class="right-info">
+### Nithin Weerasinghe
+**nithinlw@cs.wisc.edu**
 
-### TA NAME
-#### **TA@wisc.edu**
-![bg left:35%](figures/empty.jpg)
+
+![bg right:35%](figures/nithin.jpeg)
+
+<div>
+
+Professional Interests:
+ * Computational Social Science
+ * Artificial Intelligence
+ * Cognitive Science
+
+Personal Interests:
+ * Podcasts
+ * Board games
+
+</div>
 
 
 ---
