@@ -248,8 +248,8 @@ console.log(textContent)
 
 | Operator | Meaning |
 | - | - |
-| === and !== | identical to/not identical *objects* |
-| == and != | identical to/not identical *values* |
+| === and !== | strong comparison |
+| == and != | weak comparison |
 | < and > | less/greater than |
 | <= and => | less/greater than or equal to |
 | && | and |
@@ -484,7 +484,7 @@ We use JavaScript to manipulate this tree.
 <sub><sup>[Document Object Model](https://en.wikipedia.org/wiki/Document_Object_Model#/media/File:DOM-model.svg)</sup></sub>
 
 
-![bg auto right:40%](figures/dom.png)
+![bg fit right:40%](figures/dom.png)
 
 
 

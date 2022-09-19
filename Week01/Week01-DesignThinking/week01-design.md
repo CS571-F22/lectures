@@ -96,14 +96,6 @@ and representing data about the user and his/her work.
 
 ---
 
-![bg 60%](figures/ci-stages.png)
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<sub><sup>CS570 Slide</sup></sub>
-
----
-
 <div class="center-info">
 
 ![w:800](figures/grocery-shopping.png)
@@ -185,6 +177,11 @@ After sorting is complete, name these categroies and subcategories.</sup></sub>
 [UX Collective](https://uxdesign.cc/8-ux-surefire-ways-to-design-for-trust-7d3720b57a4c) 
 
 ![bg](figures/1_aVc03IDnA9Wo9yvHnI0MaQ.jpeg)
+
+---
+
+# In-Class Exercise!
+### https://tinyurl.com/cs571-grocery
 
 ---
 
