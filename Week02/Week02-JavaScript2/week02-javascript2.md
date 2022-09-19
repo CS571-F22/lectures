@@ -25,6 +25,18 @@ style: |
 
 ---
 
+### Clarification from Last Time
+
+`==` (loose comparison) and `===` (strict comparison)
+
+e.g. `1 == "1"` is `true` but `1 === "1"` is `false`
+
+[Linters](https://www.npmjs.com/package/eslint) usually prevent you from using loose comparison.
+
+Trying to [compare objects vs. references](https://pythontutor.com/render.html#code=const%20ta1%20%3D%20%7Bname%3A%20%22Jane%20Smith%22,%20age%3A%2023%7D%0Aconst%20ta2%20%3D%20%7Bname%3A%20%22Jane%20Smith%22,%20age%3A%2023%7D%0Aconsole.log%28ta1%20%3D%3D%3D%20ta2%29&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=js&rawInputLstJSON=%5B%5D&textReferences=false)? Use [lodash](https://lodash.com/)!
+
+---
+
 ### What we will learn today?
 
 <div>
@@ -273,7 +285,7 @@ function greeting1(name) {
   alert('Hello ' + name);
 }
 
-function getting2(name) {
+function greeting2(name) {
   alert('Welcome ' + name);
 }
 
@@ -315,6 +327,20 @@ Why use one versus the other?
 [Fetch Jokes (w/ `setInterval` and `setTimeout`)](https://stackblitz.com/edit/js-1g42b8?file=index.html,index.js)
 
 <sub><sup>\* approximately</sup></sub>
+
+---
+
+### `forEach` and `map`
+
+Declarative ways to iterate.
+
+Both functions take a *callback function* as a parameter.
+- `forEach` iterates over each element of an array.
+- `map` iterates over each element of an array and constructs a new array of its return statements.
+
+We'll use these extensively with React.
+
+[Jokes with `map` and `forEach`](https://stackblitz.com/edit/js-xmbs3d)
 
 ---
 
@@ -454,6 +480,8 @@ Basic usage of a grid...
 ```
 
 Where `*` is *grid class* and `^` is *column size*.
+
+You can specify multiple of these classes to make your website responsive to phone, tablet, and desktop!
 
 ---
 
