@@ -395,6 +395,8 @@ useEffect(() => {
 # Let's make a React App!
 Find my Badgers using [randomuser.me](https://randomuser.me/)
 
+[StackBlitz Solution](https://stackblitz.com/edit/react-gjnfht)
+
 ---
 
 ### A Reminder of Library Usage
